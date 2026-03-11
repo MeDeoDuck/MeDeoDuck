@@ -49,11 +49,11 @@
 
 <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
 <ul>
-<li>Autonomous Driving Perception (LiDAR clustering, camera detection, sensor fusion)</li>
-<li>ROS-based robotic perception pipelines</li>
-<li>Time-series forecasting & loss function design</li>
-<li>Efficient deep learning (LoRA, quantization, training optimization)</li>
-<li>AI-driven system design and real-world deployment</li>
+<li>Data engineering and large-scale data processing pipelines</li>
+<li>Time-series forecasting and predictive data analytics</li>
+<li>Machine learning pipelines and data workflow optimization</li>
+<li>Efficient deep learning training (loss design, model optimization)</li>
+<li>Data-driven AI system design and deployment</li>
 </ul>
 </div>
 </div>
