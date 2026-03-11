@@ -86,7 +86,7 @@
 <div align="center">
 
 <a href="https://blog.naver.com/deoduck92/">
-<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Blog&logoColor=white">
 </a>
 
 <a href="seankim0824@inha.edu">
