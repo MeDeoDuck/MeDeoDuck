@@ -85,11 +85,11 @@
 
 <div align="center">
 
-<a href="https://pixxlix.tistory.com/">
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+<a href="https://blog.naver.com/deoduck92/">
+<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
 
-<a href="mailto:busygalyoonk@gmail.com">
+<a href="seankim0824@inha.edu">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
