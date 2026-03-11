@@ -6,10 +6,10 @@
 <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
 <ul>
 <li>Majoring in Artificial Intelligence Engineering at Inha University</li>
-<li>Researching autonomous driving systems, LiDAR–Camera sensor fusion, and perception pipelines</li>
-<li>Interested in time-series forecasting, deep learning optimization, and AI system design</li>
-<li>Developing ROS-based perception & path planning algorithms using LiDAR and camera data</li>
-<li>Exploring efficient AI training methods such as loss design, LoRA fine-tuning, and model optimization</li>
+<li>Researching data-driven AI systems and scalable data pipelines</li>
+<li>Interested in time-series forecasting, data engineering, and AI system design</li>
+<li>Developing data processing pipelines for machine learning and analytics</li>
+<li>Exploring efficient AI training methods such as loss function design and model optimization</li>
 </ul>
 </div>
 </div>
@@ -84,10 +84,6 @@
 </h2>
 
 <div align="center">
-
-<a href="https://blog.naver.com/deoduck92/">
-<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Blog&logoColor=white">
-</a>
 
 <a href="seankim0824@inha.edu">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
