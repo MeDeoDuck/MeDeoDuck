@@ -1,6 +1,6 @@
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-🚀 Hi, I'm MeDeoDuck — AI Engineering Student & Research Developer
+🚀 Hi, I'm JaeHyunKim — AI Engineering Student & Research Developer
 </h2>
 <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
 <ul>
