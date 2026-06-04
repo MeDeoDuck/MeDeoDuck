@@ -1,13 +1,11 @@
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-🚀 Hi, I'm JaeHyunKim — AI Engineering Student & Research Developer
+🚀 JaeHyunKim — AI Engineering Student & Research Developer
 </h2>
 <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
 <ul>
 <li>Majoring in Artificial Intelligence Engineering at Inha University</li>
 <li>Researching model compression, efficient training, and LLM-based agent systems</li>
-<li>Interested in model quantization, structured pruning, knowledge distillation, and generative AI</li>
-<li>Building AI pipelines that bridge research prototypes and production-level deployment</li>
 <li>Patent holder in efficient deep learning training (Stable Diffusion + Ladder Side Tuning)</li>
 </ul>
 </div>
@@ -17,7 +15,7 @@
 
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-🛠️ Tech Stacks
+🛠️ Tech Stack
 </h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -37,7 +35,7 @@
 
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-🔬 Recent Research & Projects
+🔬 Research & Projects
 </h2>
 
 ### 🗜️ LG EXAONE 4.0 1.2B — Model Compression Pipeline
@@ -134,73 +132,6 @@ video_id list
 <li>Generative model training efficiency (Stable Diffusion, Diffusion Transformers)</li>
 </ul>
 </div>
-</div>
-
----
-
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-🧠 What I've Learned
-</h2>
-
-**🗜️ Model Compression & Optimization**
-<div align="center">
-<img src="https://img.shields.io/badge/GPTQ Quantization-4B0082?style=for-the-badge">
-<img src="https://img.shields.io/badge/2:4 Structured Sparsity (N:M)-6A1B9A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Depth Pruning-7B1FA2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Knowledge Distillation-8E24AA?style=for-the-badge">
-<img src="https://img.shields.io/badge/llm--compressor-AB47BC?style=for-the-badge">
-<img src="https://img.shields.io/badge/auto--gptq-CE93D8?style=for-the-badge">
-</div>
-<br>
-
-**🎨 Generative AI & Efficient Fine-Tuning**
-<div align="center">
-<img src="https://img.shields.io/badge/Stable Diffusion-FF6F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Ladder Side Tuning (LST)-F57C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/LoRA / PEFT-FB8C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/HuggingFace Diffusers-FFB300?style=for-the-badge">
-<img src="https://img.shields.io/badge/Forward Hook Injection-FFD54F?style=for-the-badge">
-</div>
-<br>
-
-**🤖 LLM & Agentic Systems**
-<div align="center">
-<img src="https://img.shields.io/badge/LLM Agent Pipeline Design-0277BD?style=for-the-badge">
-<img src="https://img.shields.io/badge/Async Parallel API Orchestration-0288D1?style=for-the-badge">
-<img src="https://img.shields.io/badge/ABSA (Sentiment Analysis)-039BE5?style=for-the-badge">
-<img src="https://img.shields.io/badge/Rule--based Filtering Systems-29B6F6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Batch LLM Inference-4FC3F7?style=for-the-badge">
-</div>
-<br>
-
-**📊 Data & ML Engineering**
-<div align="center">
-<img src="https://img.shields.io/badge/ML Data Pipelines-00695C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Time--Series Forecasting-00796B?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data--Driven AI System Design-00897B?style=for-the-badge">
-<img src="https://img.shields.io/badge/Database Engineering (SQL)-26A69A?style=for-the-badge">
-</div>
-<br>
-
-**🤖 Robotics & Perception**
-<div align="center">
-<img src="https://img.shields.io/badge/ROS (Robot Operating System)-22314E?style=for-the-badge&logo=ros&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/Autonomous Driving Perception-1565C0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Robotics System Design-1976D2?style=for-the-badge">
-</div>
-<br>
-
-**⚙️ Systems & Infrastructure**
-<div align="center">
-<img src="https://img.shields.io/badge/CUDA Programming-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-</div>
-
 </div>
 
 ---
