@@ -1,10 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm JaeHyun Kim — Majoring in Artificial Engineering
+# 👋 Hi, I'm JaeHyun Kim — Product-Minded Developer
 
 </div>
 
-- **Interested in backend infrastructure, system architecture, and database system design & management**
+- **Interested in building products end-to-end — turning ideas into shipped, working systems**
+- Interested in backend infrastructure, system architecture, and database design & management
 - Interested in query optimization and database performance tuning
 - Studying operating systems internals and modern Linux I/O models
 
