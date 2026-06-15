@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm pixxlix — Engineering Student
+# 👋 Hi, I'm JaeHyun Kim — Majoring in Artificial Engineering
 
 </div>
 
