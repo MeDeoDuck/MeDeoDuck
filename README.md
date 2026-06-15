@@ -7,6 +7,7 @@
 - **Interested in building products end-to-end — turning ideas into shipped, working systems**
 - Interested in backend infrastructure, system architecture, and database design & management
 - Interested in query optimization and database performance tuning
+- Researched Graph Neural Networks (GNN) for fraud & fake-review detection
 - Studying operating systems internals and modern Linux I/O models
 
 ---
@@ -28,6 +29,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=for-the-badge)
+![Graph Neural Network](https://img.shields.io/badge/Graph_Neural_Network_(GNN)-FF6F00?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
