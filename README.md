@@ -29,7 +29,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=for-the-badge)
-![Graph Neural Network](https://img.shields.io/badge/Graph_Neural_Network_(GNN)-FF6F00?style=for-the-badge)
+![Graph Neural Network](https://img.shields.io/badge/Graph_Neural_Network_(GNN)-43A047?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -47,10 +47,10 @@
 
 **Model Optimization**
 
-![Quantization](https://img.shields.io/badge/Quantization_(GPTQ_/_AWQ)-8A0303?style=for-the-badge)
-![Pruning](https://img.shields.io/badge/Pruning-8A0303?style=for-the-badge)
-![Knowledge Distillation](https://img.shields.io/badge/Knowledge_Distillation-8A0303?style=for-the-badge)
-![PEFT](https://img.shields.io/badge/PEFT_(Ladder_Side_Tuning)-8A0303?style=for-the-badge)
+![Quantization](https://img.shields.io/badge/Quantization_(GPTQ_/_AWQ)-1565C0?style=for-the-badge)
+![Pruning](https://img.shields.io/badge/Pruning-00897B?style=for-the-badge)
+![Knowledge Distillation](https://img.shields.io/badge/Knowledge_Distillation-2E7D32?style=for-the-badge)
+![PEFT](https://img.shields.io/badge/PEFT_(Ladder_Side_Tuning)-0288D1?style=for-the-badge)
 
 **Backend & Web**
 
