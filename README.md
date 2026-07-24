@@ -85,11 +85,4 @@ Only what I've actually built with, focused on generative-AI / AX work.
 - **Certifications:** OPIc IH (English) · SQLD
 - **Software copyright registrations (2):** Moabom · LST-based Stable Diffusion training method
 
-<br>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MeDeoDuck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeDeoDuck&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:2F80ED&height=100&section=footer"/>
