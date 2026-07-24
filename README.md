@@ -86,6 +86,7 @@ Only what I've actually built with, focused on generative-AI / AX work.
   - Financial AI Lab (Dec 2025 ~ Aug 2026)
   - Vision & Learning Lab (Jun 2025 ~ Oct 2025)
   - Autonomous Systems Lab (Mar 2025 ~ Jun 2025)
+- **LG Aimers 8th** (LG AI training program): LLM Compression track, completed with certificate (Jan 2026 ~ Feb 2026)
 - **B.S. in Artificial Intelligence Engineering**, Inha University (2021 ~ Present)
 - **LinkUs** (AI talent network): Vice President, 20th (Jul 2026 ~ Present) · Member, 19th (Mar 2025 ~ Jun 2025). Leading the club's rebrand from a career-networking group into an AI talent network as the only engineer on the leadership team.
 - **Awards:** **Capstone Design 3rd Prize, Dean's Award of the College of Software Convergence, Inha University** (2026) · Incomthon Grand Prize (LINK 3.0 Director's Award, 2024) · LinkUs Club Activity Grand Prize (2026)
