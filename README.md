@@ -35,7 +35,7 @@ Only what I've actually built with, focused on generative-AI / AX work.
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-- **LLM & agents:** multi-agent orchestration (LangGraph), RAG (embedding + vector store), prompt engineering, harness / guardrail engineering
+- **LLM & agents:** multi-agent orchestration (LangGraph), prompt engineering, harness / guardrail engineering
 - **Model efficiency:** knowledge distillation, quantization (GPTQ / AWQ)
 
 <br>
@@ -49,7 +49,7 @@ Only what I've actually built with, focused on generative-AI / AX work.
   <tbody>
     <tr>
       <td><b>Moabom</b></td>
-      <td>Multi-agent LLM service that turns scattered YouTube tech reviews into one purchase-decision report. Video selection, comment filtering, and report generation run as a LangGraph agent pipeline with vector-DB RAG for grounding. FastAPI + PostgreSQL, deployed on Azure.</td>
+      <td>Multi-agent LLM service that turns scattered YouTube tech reviews into one purchase-decision report. Video selection, comment filtering, and report generation run as a LangGraph agent pipeline. FastAPI + PostgreSQL, deployed on Azure.</td>
       <td>To cut API cost, distilled GPT-4.1's comment and comparison-video classification into local KLUE-RoBERTa models (macro F1 <b>0.92 / 0.90</b>), holding accuracy while running inference <b>22x faster</b> and <b>~99% cheaper</b> on a self-hosted GPU. Judgment consistency <b>98%</b> across 300 runs (GPT-4.1 90%, Gemini 86%). Deployed pilot, MAU 97.</td>
       <td><a href="https://github.com/moabom-official/Moabom_Prototype">Repo</a> · <a href="https://github.com/MeDeoDuck/KLUE_BERT_DISTILL">Distillation</a> · <a href="https://github.com/MeDeoDuck/MoabomVSAll">Benchmark</a></td>
     </tr>
