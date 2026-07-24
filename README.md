@@ -75,7 +75,11 @@ Only what I've actually built with, focused on generative-AI / AX work.
 
 ## 🐢 Experience & Education
 
-- **Work-Study Intern**, WAVUS (GeoAI / spatial-information platform) — Jul 2026 ~ Present
+- **Work-Study Intern**, WAVUS (GeoAI / spatial-information platform), Jul 2026 ~ Present
+- **Undergraduate Researcher**, Inha University
+  - Financial AI Lab (Dec 2025 ~ Aug 2026)
+  - Vision & Learning Lab (Jun 2025 ~ Oct 2025)
+  - Autonomous Systems Lab (Mar 2025 ~ Jun 2025)
 - **B.S. in Artificial Intelligence Engineering**, Inha University (2021 ~ Present)
 - **Awards:** **Capstone Design 3rd Prize, Dean's Award of the College of Software Convergence, Inha University** (2026) · Incomthon Grand Prize (LINK 3.0 Director's Award, 2024) · LinkUs Club Activity Grand Prize (2026)
 - **Certifications:** OPIc IH (English) · SQLD
@@ -83,5 +87,9 @@ Only what I've actually built with, focused on generative-AI / AX work.
 
 <br>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MeDeoDuck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeDeoDuck&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:2F80ED&height=100&section=footer"/>
