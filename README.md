@@ -67,7 +67,7 @@ Only what I've actually built with, focused on generative-AI / AX work.
 - **[VoiceStep](https://github.com/MeDeoDuck/VoiceStep)** — AI voice-conversation practice for job interviews and workplace communication (speech in, LLM agent, spoken reply). `FastAPI · faster-whisper · Gemini · React`
 - **[Linkus20 Agent Editor](https://github.com/MeDeoDuck/Linkus20-AgentStructureEducation)** — block-diagram editor with an LLM agent that builds and edits diagrams from natural language. `React · TypeScript · Express · LLM`
 - **[CAGE-CareRF](https://github.com/ITDA-Team-C/FINAL_GNN_STRUCTURE)** — multi-relation GNN that catches organized fake-review rings by modeling reviews as a 6-relation graph (+7.4% PR-AUC over GNN baselines). `PyTorch Geometric · GAT / GCN / GraphSAGE · SBERT`
-- **[ShiftLoss](https://github.com/MeDeoDuck/ShiftLoss)** — a differentiable shift-alignment loss for time-series forecasting that tolerates small phase offsets; research paper under review. `PyTorch · PatchTST · DLinear · iTransformer`
+- **[ShiftLoss](https://github.com/MeDeoDuck/ShiftLoss)** — a differentiable shift-alignment loss for time-series forecasting that tolerates small phase offsets; research paper under review. `Amplifier · PatchTST · DLinear · iTransformer`
 - **[LG Aimers (quantization)](https://github.com/MeDeoDuck/LG_Aimers_8th_Quant)** — model-compression experiments for cheaper inference. `GPTQ · AWQ · sparsity`
 - **[TrackWithReID](https://github.com/MeDeoDuck/TrackWithReID)** — multi-object tracking with re-identification. `YOLOX · ByteTrack · TransReID (ViT) · OpenCV`
 - **[Physical_AI_ws](https://github.com/MeDeoDuck/Physical_AI_ws)** — CCTV perception to A* planning to Pure Pursuit control, a warehouse-robot pipeline. `ROS · Python`
