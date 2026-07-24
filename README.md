@@ -27,6 +27,7 @@ Only what I've actually built with, focused on generative-AI / AX work.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
@@ -34,7 +35,7 @@ Only what I've actually built with, focused on generative-AI / AX work.
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-- **LLM & agents:** multi-agent systems, prompt engineering, cascade routing, LLM APIs (GPT / Gemini / Groq Llama-3.3)
+- **LLM & agents:** multi-agent orchestration (LangGraph), RAG (embedding + vector store), prompt engineering, harness / guardrail engineering
 - **Model efficiency:** knowledge distillation, quantization (GPTQ / AWQ)
 
 <br>
@@ -48,28 +49,20 @@ Only what I've actually built with, focused on generative-AI / AX work.
   <tbody>
     <tr>
       <td><b>Moabom</b></td>
-      <td>Aggregates YouTube tech-review opinion and analyzes it with a multi-agent LLM pipeline. FastAPI + PostgreSQL + Docker, shipped to real users.</td>
-      <td>Deployed to real users, <b>MAU 97</b>. Judgment consistency <b>98%</b> across 300 runs (GPT-4.1 90%, Gemini 86%). Moved detection on-device to cut inference cost <b>~99%</b>.</td>
-      <td><a href="https://github.com/moabom-official/Moabom_Prototype">Repo</a> · <a href="https://github.com/MeDeoDuck/MoabomVSAll">Benchmark</a></td>
+      <td>Multi-agent LLM service that turns scattered YouTube tech reviews into one purchase-decision report. Video selection, comment filtering, and report generation run as a LangGraph agent pipeline with vector-DB RAG for grounding. FastAPI + PostgreSQL, deployed on Azure.</td>
+      <td>To cut API cost, distilled GPT-4.1's comment and comparison-video classification into local KLUE-RoBERTa models (macro F1 <b>0.92 / 0.90</b>), holding accuracy while running inference <b>22x faster</b> and <b>~99% cheaper</b> on a self-hosted GPU. Judgment consistency <b>98%</b> across 300 runs (GPT-4.1 90%, Gemini 86%). Deployed pilot, MAU 97.</td>
+      <td><a href="https://github.com/moabom-official/Moabom_Prototype">Repo</a> · <a href="https://github.com/MeDeoDuck/KLUE_BERT_DISTILL">Distillation</a> · <a href="https://github.com/MeDeoDuck/MoabomVSAll">Benchmark</a></td>
     </tr>
     <tr>
-      <td><b>KLUE_BERT_DISTILL</b></td>
-      <td>Distills GPT-4.1 labels into a smaller RoBERTa, with a cascade router that escalates only low-confidence cases to the API.</td>
-      <td>Accuracy-vs-cost design. Target: under 20% of traffic on the API. Benchmark in progress.</td>
-      <td><a href="https://github.com/MeDeoDuck/KLUE_BERT_DISTILL">Repo</a></td>
-    </tr>
-    <tr>
-      <td><b>VoiceStep</b></td>
-      <td>Voice-driven language practice: speech-to-text into an LLM agent, then a spoken reply. FastAPI + React.</td>
-      <td>Full-stack multimodal pipeline (STT → agent → reply).</td>
-      <td><a href="https://github.com/MeDeoDuck/VoiceStep">Backend</a> · <a href="https://github.com/MeDeoDuck/VoiceStep_Front">Frontend</a></td>
+      <td><b>FOMO Breaker</b></td>
+      <td>Multi-agent debate system that checks whether a stock urge is analysis or FOMO. AI personas argue back and forth over rounds with a moderator, and the free-form debate is structured into a FOMO-index dashboard and verdict. Deployed; a second-opinion tool, not a recommender.</td>
+      <td>Persona design: each agent is grounded in a different finance theory, with its own risk threshold and time horizon, so the same input yields deliberately different views. Harness engineering: every weight proposal is validated in code against the real signal scores and per-item caps, held or rejected otherwise (<b>53% held/rejected</b> over 30 runs), with zero-sum weights and an index re-derivation check. Dual-LLM: GPT-4.1 for speech, Llama-3.3-70B for internal reasoning, over WebSocket.</td>
+      <td><a href="https://github.com/FOMO-Breaker/FOMO-Breaker">Repo</a> · <a href="https://fomo-breaker.vercel.app">Live demo</a></td>
     </tr>
   </tbody>
 </table>
 
 **Systems & CV background:** LiDAR cone-detection and path planning written from scratch in C++ ([Lider_Cone_Path](https://github.com/MeDeoDuck/Lider_Cone_Path)), and a CCTV-to-A\*-to-control robot pipeline on ROS ([Physical_AI_ws](https://github.com/MeDeoDuck/Physical_AI_ws)).
-
-**Currently building:** a RAG retrieval layer (vector DB + hybrid search) on top of the Moabom multi-agent stack, plus cloud deployment.
 
 <br>
 
