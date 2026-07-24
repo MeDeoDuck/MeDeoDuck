@@ -62,7 +62,16 @@ Only what I've actually built with, focused on generative-AI / AX work.
   </tbody>
 </table>
 
-**Systems & CV background:** LiDAR cone-detection and path planning written from scratch in C++ ([Lider_Cone_Path](https://github.com/MeDeoDuck/Lider_Cone_Path)), and a CCTV-to-A\*-to-control robot pipeline on ROS ([Physical_AI_ws](https://github.com/MeDeoDuck/Physical_AI_ws)).
+## 🧩 Other Projects
+
+- **[VoiceStep](https://github.com/MeDeoDuck/VoiceStep)** — AI voice-conversation practice for job interviews and workplace communication (speech in, LLM agent, spoken reply). `FastAPI · faster-whisper · Gemini · React`
+- **[Linkus20 Agent Editor](https://github.com/MeDeoDuck/Linkus20-AgentStructureEducation)** — block-diagram editor with an LLM agent that builds and edits diagrams from natural language. `React · TypeScript · Express · LLM`
+- **[ShiftLoss](https://github.com/MeDeoDuck/ShiftLoss)** — training-efficiency method for Stable Diffusion using Ladder Side Tuning (software-copyright registered). `PyTorch`
+- **[LG Aimers (quantization)](https://github.com/MeDeoDuck/LG_Aimers_8th_Quant)** — model-compression experiments for cheaper inference. `GPTQ · AWQ · sparsity`
+- **[TrackWithReID](https://github.com/MeDeoDuck/TrackWithReID)** — multi-object tracking with re-identification. `YOLOX · ByteTrack · TransReID (ViT) · OpenCV`
+- **[Physical_AI_ws](https://github.com/MeDeoDuck/Physical_AI_ws)** — CCTV perception to A* planning to Pure Pursuit control, a warehouse-robot pipeline. `ROS · Python`
+- **[Lider_Cone_Path](https://github.com/MeDeoDuck/Lider_Cone_Path)** — LiDAR cone-detection and path planning written from scratch, including Hungarian matching. `C++`
+- **[desktop-planner](https://github.com/MeDeoDuck/desktop-planner)** — minimal desktop planner app. `Electron · JavaScript`
 
 <br>
 
