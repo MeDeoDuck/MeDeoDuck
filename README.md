@@ -37,6 +37,9 @@ Only what I've actually built with, focused on generative-AI / AX work.
 
 - **LLM & agents:** multi-agent orchestration (LangGraph), prompt engineering, harness / guardrail engineering
 - **Model efficiency:** knowledge distillation, quantization (GPTQ / AWQ)
+- **ML & research:** GNN (PyTorch Geometric), time-series forecasting, PyTorch / Hugging Face
+- **Computer vision & robotics:** detection and tracking (YOLOX, ByteTrack), re-identification (ViT), LiDAR, ROS, C++
+- **Backend & deploy:** FastAPI, PostgreSQL, Docker, cloud deploy (Azure, Vercel)
 
 <br>
 
