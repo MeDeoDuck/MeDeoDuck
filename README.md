@@ -6,11 +6,6 @@
 </p>
 <p align="center"><i>Open to AX / generative-AI engineer roles</i></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Deployed_multi--agent_product-MAU_97-2F80ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Judgment_consistency-98%25_over_300_runs-00A86B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Inference_cost-99%25_cheaper-EA4335?style=for-the-badge"/>
-</p>
 
 ## 👋 About me
 
