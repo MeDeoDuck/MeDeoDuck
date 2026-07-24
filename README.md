@@ -1,105 +1,91 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:141E30&height=210&section=header&text=Jaehyun%20Kim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20LLM%20agent%20products,%20built%20to%20run%20cheap%20in%20production&descSize=17&descAlignY=60"/>
 
-# 👋 Hi, I'm JaeHyun Kim — Product-Minded Developer
+<p align="center">
+  <a href="mailto:seankim0824@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/MeDeoDuck"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<p align="center"><i>Open to AX / generative-AI engineer roles</i></p>
 
-</div>
+## 👋 About me
 
-- **Interested in building products end-to-end — turning ideas into shipped, working systems**
-- Interested in backend infrastructure, system architecture, and database design & management
-- Interested in query optimization and database performance tuning
-- Researched Graph Neural Networks (GNN) for fraud & fake-review detection
-- Studying operating systems internals and modern Linux I/O models
+I build LLM agent products and make them cheap enough to run in production. My flagship is a multi-agent service I shipped to real users, then cut its inference cost about 99%.
 
----
+Backend, the agent layer, and the cost work: I take a generative-AI service the whole way, not just to a demo.
 
-## 🛠️ Tech Stacks
+<br>
 
-<div align="center">
+## ⚒️ Tech Stack
 
-**Languages**
+Only what I've actually built with, focused on generative-AI / AX work.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-**AI / ML**
+- **LLM & agents:** multi-agent systems, prompt engineering, cascade routing, LLM APIs (GPT / Gemini / Groq Llama-3.3)
+- **Model efficiency:** knowledge distillation, quantization (GPTQ / AWQ)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Graph Neural Network](https://img.shields.io/badge/Graph_Neural_Network_(GNN)-43A047?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+<br>
 
-**LLM / Agents**
+## 🔥 Featured Projects
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT--4.1-412991?style=for-the-badge)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+<table>
+  <thead>
+    <tr><th>Project</th><th>What it is</th><th>Result</th><th>Links</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Moabom</b></td>
+      <td>Aggregates YouTube tech-review opinion and analyzes it with a multi-agent LLM pipeline. FastAPI + PostgreSQL + Docker, shipped to real users.</td>
+      <td>Deployed to real users, <b>MAU 97</b>. Judgment consistency <b>98%</b> across 300 runs (GPT-4.1 90%, Gemini 86%). Moved detection on-device to cut inference cost <b>~99%</b>.</td>
+      <td><a href="https://github.com/moabom-official/Moabom_Prototype">Repo</a> · <a href="https://github.com/MeDeoDuck/MoabomVSAll">Benchmark</a></td>
+    </tr>
+    <tr>
+      <td><b>KLUE_BERT_DISTILL</b></td>
+      <td>Distills GPT-4.1 labels into a smaller RoBERTa, with a cascade router that escalates only low-confidence cases to the API.</td>
+      <td>Accuracy-vs-cost design. Target: under 20% of traffic on the API. Benchmark in progress.</td>
+      <td><a href="https://github.com/MeDeoDuck/KLUE_BERT_DISTILL">Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>VoiceStep</b></td>
+      <td>Voice-driven language practice: speech-to-text into an LLM agent, then a spoken reply. FastAPI + React.</td>
+      <td>Full-stack multimodal pipeline (STT → agent → reply).</td>
+      <td><a href="https://github.com/MeDeoDuck/VoiceStep">Backend</a> · <a href="https://github.com/MeDeoDuck/VoiceStep_Front">Frontend</a></td>
+    </tr>
+  </tbody>
+</table>
 
-**Model Optimization**
+**Systems & CV background:** LiDAR cone-detection and path planning written from scratch in C++ ([Lider_Cone_Path](https://github.com/MeDeoDuck/Lider_Cone_Path)), and a CCTV-to-A\*-to-control robot pipeline on ROS ([Physical_AI_ws](https://github.com/MeDeoDuck/Physical_AI_ws)).
 
-![Quantization](https://img.shields.io/badge/Quantization_(GPTQ_/_AWQ)-1565C0?style=for-the-badge)
-![Pruning](https://img.shields.io/badge/Pruning-00897B?style=for-the-badge)
-![Knowledge Distillation](https://img.shields.io/badge/Knowledge_Distillation-2E7D32?style=for-the-badge)
-![PEFT](https://img.shields.io/badge/PEFT_(Ladder_Side_Tuning)-0288D1?style=for-the-badge)
+**Currently building:** a RAG retrieval layer (vector DB + hybrid search) on top of the Moabom multi-agent stack, plus cloud deployment.
 
-**Backend & Web**
+<br>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+## 🐢 Experience & Education
 
-**Robotics / CV**
+- **Work-Study Intern**, WAVUS (GeoAI / spatial-information platform) — Jul 2026 ~ Present
+- **B.S. in Artificial Intelligence Engineering**, Inha University (2021 ~ Present)
+- **Awards:** **Capstone Design 3rd Prize, Dean's Award of the College of Software Convergence, Inha University** (2026) · Incomthon Grand Prize (LINK 3.0 Director's Award, 2024) · LinkUs Club Activity Grand Prize (2026)
+- **Certifications:** OPIc IH (English) · SQLD
+- **Software copyright registrations (2):** Moabom · LST-based Stable Diffusion training method
 
-![ROS](https://img.shields.io/badge/ROS_1_/_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge)
-![PCL](https://img.shields.io/badge/PCL_(Point_Cloud)-008080?style=for-the-badge)
+<br>
 
-**Data / Infra / DevOps**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MeDeoDuck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeDeoDuck&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-00897B?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Data Engineering**
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-**MLOps**
-
-![MLflow](https://img.shields.io/badge/MLflow-EE4C2C?style=for-the-badge&logo=mlflow&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Reinforcement Learning · Data Engineering (Kafka, Airflow) · MLOps 학습 중 🚀</sub>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:2F80ED&height=100&section=footer"/>
