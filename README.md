@@ -8,9 +8,9 @@
 
 ## 👋 About me
 
-I build LLM agent products and make them cheap enough to run in production. My flagship is a multi-agent service I shipped to real users, then cut its inference cost about 99%.
+I'm an AI engineer who treats an LLM as a component to engineer around, not to trust blindly. I build multi-agent products, cut their running cost, and study harness engineering: the validation gates, guardrails, and evals that turn a probabilistic model into a system you can ship.
 
-Backend, the agent layer, and the cost work: I take a generative-AI service the whole way, not just to a demo.
+My flagship is a multi-agent service I shipped to real users, then cut its inference cost about 99%. The same instinct drives FOMO Breaker's in-code evidence gate and Moabom's self-healing pipeline.
 
 <br>
 
