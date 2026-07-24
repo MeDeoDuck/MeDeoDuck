@@ -99,6 +99,6 @@ Only what I've actually built with, focused on generative-AI / AX work.
 - **Certifications:** OPIc IH (English) · SQLD
 - **Software copyright registrations (2):** Moabom · LST-based Stable Diffusion training method
 
-<p align="center"><b>Looking for AX / generative-AI Engineer roles.</b> The fastest way to judge me is the live <a href="https://fomo-breaker.vercel.app">FOMO Breaker</a> demo and the Moabom repos above. Reach me at seankim0824@gmail.com</p>
+<p align="center"><b>Looking for AX / generative-AI Engineer roles.</b> The fastest way to judge me are the the Moabom repos and <a href="https://fomo-breaker.vercel.app">FOMO Breaker</a> above. Reach me at seankim0824@gmail.com</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:2F80ED&height=100&section=footer"/>
