@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:141E30&height=210&section=header&text=Jaehyun%20Kim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Multi-agent%20LLM%20engineer%20·%20shipped%20to%20real%20users%20·%20~99%25%20cheaper%20inference&descSize=17&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:141E30&height=210&section=header&text=Jaehyun%20Kim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20Generative%20AI%20·%20LLM%20Agents%20·%20Model%20Efficiency&descSize=17&descAlignY=60"/>
 
 <p align="center">
   <a href="mailto:seankim0824@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -99,6 +99,6 @@ Only what I've actually built with, focused on generative-AI / AX work.
 - **Certifications:** OPIc IH (English) · SQLD
 - **Software copyright registrations (2):** Moabom · LST-based Stable Diffusion training method
 
-<p align="center"><b>Looking for AX / generative-AI Engineer roles.</b> The fastest way to judge me are the the Moabom repos and <a href="https://fomo-breaker.vercel.app">FOMO Breaker</a> above. Reach me at seankim0824@gmail.com</p>
+<p align="center"><b>Looking for AX / generative-AI Engineer roles.</b> The fastest way to judge me is the Moabom repos and <a href="https://fomo-breaker.vercel.app">FOMO Breaker</a> above. Reach me at seankim0824@gmail.com</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:2F80ED&height=100&section=footer"/>
