@@ -85,17 +85,16 @@ Two open questions I want to attack: whether **semantic relevance alone is a suf
 
 | Date | Project | Topic | Context | Link |
 |---|---|---|---|---|
-| 2026.06 ~ 2026.07 | **FOMO Breaker** | Evidence-verified multi-agent investment debate | Application Design Project | [GITHUB](https://github.com/FOMO-Breaker/FOMO-Breaker) · [DEMO](https://fomo-breaker.vercel.app) |
+| 2026.06 ~ 2026.07 | **FOMO Breaker** | Evidence-verified multi-agent investment debate | 애플리케이선 설계 프로젝트 | [GITHUB](https://github.com/FOMO-Breaker/FOMO-Breaker) · [DEMO](https://fomo-breaker.vercel.app) |
 | 2026.03 ~ 2026.06 | **MOABOM** | Knowledge-distilled multi-agent YouTube tech-review analysis | AI Capstone Design, Inha Univ. | [GITHUB](https://github.com/moabom-official/Moabom_Prototype) · [DISTILL](https://github.com/MeDeoDuck/KLUE_BERT_DISTILL) · [BENCH](https://github.com/MeDeoDuck/MoabomVSAll) |
 | 2026.01 ~ 2026.02 | **LLM Quantization** | Model compression for cheaper LLM inference (GPTQ / AWQ / sparsity) | LG Aimers 8th | [GITHUB](https://github.com/MeDeoDuck/LG_Aimers_8th_Quant) |
 | 2025.07 ~ 2025.08 | **StableDiffusion + LST** | Parameter-efficient adaptation of latent diffusion via Ladder Side-Tuning | Personal Research · Software Copyright | [GITHUB](https://github.com/MeDeoDuck/StableDiffusionWithLST) |
-| — | **ShiftLoss** | Differentiable time-delay term for phase-tolerant time-series forecasting | Financial AI Lab · paper under review | [GITHUB](https://github.com/MeDeoDuck/ShiftLoss) |
-| — | **CAGE-CareRF** | Multi-relation GNN for organized fake-review ring detection | ITDA 2nd Academic Festival | [GITHUB](https://github.com/ITDA-Team-C/FINAL_GNN_STRUCTURE) |
-| — | **TrackWithReID** | Multi-object tracking with re-identification | Vision and Learning Lab | [GITHUB](https://github.com/MeDeoDuck/TrackWithReID) |
-| — | **VoiceStep** | Voice-conversation practice agent for interviews and workplace communication | LinkUs 19th | [GITHUB](https://github.com/MeDeoDuck/VoiceStep) |
-| — | **Linkus20 Agent Editor** | LLM agent that builds and edits block diagrams from natural language | LinkUs 20th | [GITHUB](https://github.com/MeDeoDuck/Linkus20-AgentStructureEducation) |
-| — | **Physical_AI_ws** | Warehouse-robot pipeline: CCTV perception → A* planning → Pure Pursuit control | Autonomous Systems Lab | [GITHUB](https://github.com/MeDeoDuck/Physical_AI_ws) |
-| — | **Lider_Cone_Path** | LiDAR cone detection and path planning written from scratch | Autonomous Systems Lab | [GITHUB](https://github.com/MeDeoDuck/Lider_Cone_Path) |
+| 2026.03 ~ 2026.06| **ShiftLoss** | Differentiable time-delay term for phase-tolerant time-series forecasting | Financial AI Lab · paper under review | [GITHUB](https://github.com/MeDeoDuck/ShiftLoss) |
+| 2026.05 ~ 2026.05| **CAGE-CareRF** | Multi-relation GNN for organized fake-review ring detection | ITDA 2nd Academic Festival | [GITHUB](https://github.com/ITDA-Team-C/FINAL_GNN_STRUCTURE) |
+| 2025.09 ~ 2025.10 | **TrackWithReID** | Multi-object tracking with re-identification | Vision and Learning Lab | [GITHUB](https://github.com/MeDeoDuck/TrackWithReID) |
+| 2026.04 ~ 2026.05| **VoiceStep** | Voice-conversation practice agent for interviews and workplace communication | LinkUs 19th | [GITHUB](https://github.com/MeDeoDuck/VoiceStep) |
+| 2025.09 ~ 2025.12 | **Physical_AI_ws** | Warehouse-robot pipeline: CCTV perception → A* planning → Pure Pursuit control | 인공지능심화탐색 프로젝트 | [GITHUB](https://github.com/MeDeoDuck/Physical_AI_ws) |
+| 2024.12 ~ 2025.06| **Lider_Cone_Path** | LiDAR cone detection and path planning written from scratch | GIGACHA-자율주행동아리 | [GITHUB](https://github.com/MeDeoDuck/Lider_Cone_Path) |
 
 <br>
 
@@ -106,7 +105,6 @@ Two open questions I want to attack: whether **semantic relevance alone is a suf
 - Built exhibition-ready monitoring pipelines integrating OCR, object detection, video understanding, and VLM-based scene interpretation with real-time risk visualization and alert generation
 
 **B.S. in Artificial Intelligence Engineering**, Inha University — Mar 2021 ~ Present
-- Expected graduation Feb 2027 · GPA 4.10/4.50
 - Undergraduate Researcher: Financial AI Lab (Dec 2025 ~ Jun 2026) · Vision and Learning Lab (Jun 2025 ~ Oct 2025) · Autonomous Systems Lab (Mar 2025 ~ Jun 2025)
 
 **Other activities**
