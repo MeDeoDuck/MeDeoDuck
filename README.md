@@ -63,10 +63,10 @@ I treat an LLM as a component to engineer around, not to trust blindly — which
 
 | Date | Competition | Project / Topic | Host | Rank | Award | Link |
 |---|---|---|---|---|---|---|
-| 2026.06 | 26-1 인공지능공학과 SW-AI 캡스톤디자인 | **MOABOM** — knowledge-distilled multi-agent YouTube tech-review analysis | 인하대학교 | 3 | 🥈 우수상<br/>(소프트웨어융합대학장상) | [GITHUB](https://github.com/moabom-official/Moabom_Prototype) · [DISTILL](https://github.com/MeDeoDuck/KLUE_BERT_DISTILL) · [BENCH](https://github.com/MeDeoDuck/MoabomVSAll) |
-| 2026.05 | ITDA 2회 학술제 | **CAGE-CareRF** — multi-relation GNN for organized fake-review ring detection | ITDA | — | — | [GITHUB](https://github.com/ITDA-Team-C/FINAL_GNN_STRUCTURE) |
+| 2026.06 | 26-1 인공지능공학과 SW-AI 캡스톤디자인 | **MOABOM** — knowledge-distilled multi-agent YouTube tech-review analysis | 인하대학교 | 3 | 🥈우수상<br/>(소프트웨어융합대학장상) | [GITHUB](https://github.com/moabom-official/Moabom_Prototype) · [DISTILL](https://github.com/MeDeoDuck/KLUE_BERT_DISTILL) · [BENCH](https://github.com/MeDeoDuck/MoabomVSAll) |
+| 2026.05 | ITDA 2회 학술제 | **CAGE-CareRF** — multi-relation GNN for organized fake-review ring detection | ITDA | Top 8 | — | [GITHUB](https://github.com/ITDA-Team-C/FINAL_GNN_STRUCTURE) |
 | 2026.01 | LG Aimers 8기 (LLM Compression) | **LLM Quantization** — model compression for cheaper LLM inference (GPTQ / AWQ / sparsity) | LG AI Research | — | — | [GITHUB](https://github.com/MeDeoDuck/LG_Aimers_8th_Quant) |
-| 2024.11 | 인컴톤 (LINC 3.0) | — | 인하대학교 LINC 3.0 사업단 | 1 | 🏆 대상<br/>(사업단장상) | - |
+| 2024.11 | 인컴톤 (LINC 3.0) | — | 인하대학교 LINC 3.0 사업단 | 1 | 🏆대상<br/>(link3.0 사업단장상) | - |
 
 <br>
 
