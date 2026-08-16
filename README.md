@@ -31,8 +31,8 @@ I treat an LLM as a component to engineer around, not to trust blindly — which
 | 기간 | 프로젝트 | 주제 | 소속 / 배경 | 링크 |
 |---|---|---|---|---|
 | 2026.06 ~ 2026.07 | **FOMO Breaker** | 근거 검증 기반 멀티 에이전트 투자 토론 시스템 | 애플리케이션 설계 프로젝트 | [GITHUB](https://github.com/FOMO-Breaker/FOMO-Breaker) |
-| 2026.04 ~ 2026.05 | **VoiceStep** | 면접·직장 커뮤니케이션 음성 대화 연습 에이전트 | LinkUs 19기 | [GITHUB](https://github.com/MeDeoDuck/VoiceStep) |
 | 2026.03 ~ 2026.06 | **ShiftLoss** | 위상 오차에 강건한 시계열 예측을 위한 미분 가능 시간 지연 항 | 금융인공지능연구실 · 논문 심사 중 | [GITHUB](https://github.com/MeDeoDuck/ShiftLoss) |
+| 2026.04 ~ 2026.05 | **VoiceStep** | 면접·직장 커뮤니케이션 음성 대화 연습 에이전트 | LinkUs 19기 | [GITHUB](https://github.com/MeDeoDuck/VoiceStep) |
 | 2025.09 ~ 2025.12 | **Physical_AI_ws** | 물류 로봇 파이프라인: CCTV 인지 → A* 경로 계획 → Pure Pursuit 제어 | 인공지능심화탐색 프로젝트 | [GITHUB](https://github.com/MeDeoDuck/Physical_AI_ws) |
 | 2025.09 ~ 2025.10 | **TrackWithReID** | 재식별(ReID)을 결합한 다중 객체 추적 | 비전 및 학습 연구실 | [GITHUB](https://github.com/MeDeoDuck/TrackWithReID) |
 | 2025.07 ~ 2025.08 | **StableDiffusion + LST** | Ladder Side-Tuning 기반 Latent Diffusion 파라미터 효율적 적응 | 개인 연구 · 저작권 등록 | [GITHUB](https://github.com/MeDeoDuck/StableDiffusionWithLST) |
