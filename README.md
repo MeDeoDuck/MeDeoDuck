@@ -103,7 +103,7 @@ I treat an LLM as a component to engineer around, not to trust blindly — which
 
 ## 🎓 학력 & 대외활동
 
-**인하대학교 인공지능공학과 학사** — 2021.03 ~ 현재 (2027.02 졸업 예정 · GPA 4.10/4.50)
+**인하대학교 인공지능공학과 학사** — 2021.03 ~ 현재
 
 | 기간 | 활동 | 역할 |
 |---|---|---|
