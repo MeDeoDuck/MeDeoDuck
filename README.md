@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:141E30&height=210&section=header&text=Jaehyun%20Kim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Continual%20Knowledge%20Editing%20%C2%B7%20Mixture-of-Experts%20Routing%20%C2%B7%20Parameter-Efficient%20LLMs%20%C2%B7%20Agentic%20AI&descSize=15&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:141E30&height=210&section=header&text=Jaehyun%20Kim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Studying%20AI%20Engineering&descSize=17&descAlignY=60"/>
 
 <p align="center">
   <a href="mailto:seankim0824@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
