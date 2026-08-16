@@ -4,7 +4,7 @@
   <a href="mailto:seankim0824@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/MeDeoDuck"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-<p align="center"><i>인하대학교 인공지능공학과 학부생 · AI 엔지니어 인턴 · 대학원 진학 준비 중</i></p>
+<p align="center"><i>Studying AI Engineering/i></p>
 
 
 ## 👋 About me
