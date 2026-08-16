@@ -105,7 +105,6 @@ I treat an LLM as a component to engineer around, not to trust blindly — which
 - Built exhibition-ready monitoring pipelines integrating OCR, object detection, video understanding, and VLM-based scene interpretation with real-time risk visualization and alert generation
 
 **B.S. in Artificial Intelligence Engineering**, Inha University — Mar 2021 ~ Present
-- Expected graduation Feb 2027 · GPA 4.10/4.50
 - Undergraduate Researcher: Financial AI Lab (Dec 2025 ~ Jun 2026) · Vision and Learning Lab (Jun 2025 ~ Oct 2025) · Autonomous Systems Lab (Mar 2025 ~ Jun 2025)
 
 **Other activities**
@@ -130,7 +129,5 @@ I treat an LLM as a component to engineer around, not to trust blindly — which
 | May 2026 | 📄 **Software Copyright** `C-2026-022267` | Stable Diffusion Training Enhancement Program Based on Ladder Side-Tuning | KCC |
 
 **Certifications** — OPIc IH (English) · SQLD
-
-<p align="center">Currently seeking <b>M.S. research on continual knowledge editing and query-aware routing of parameter-efficient expert modules</b>.<br/>The fastest way to judge me is MOABOM, <a href="https://fomo-breaker.vercel.app">FOMO Breaker</a>, and the LST work above. Reach me at seankim0824@gmail.com</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:2F80ED&height=100&section=footer"/>
