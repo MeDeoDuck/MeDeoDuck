@@ -86,6 +86,9 @@ Two open questions I want to attack: whether **semantic relevance alone is a suf
 | Date | Competition | Project / Topic | Host | Rank | Award | Link |
 |---|---|---|---|---|---|---|
 | 2026.06 | 26-1 인공지능공학과 SW-AI 캡스톤디자인 | **MOABOM** — knowledge-distilled multi-agent YouTube tech-review analysis | 인하대학교 | 3 | 🥈 우수상<br/>(소프트웨어융합대학장상) | [GITHUB](https://github.com/moabom-official/Moabom_Prototype) · [DISTILL](https://github.com/MeDeoDuck/KLUE_BERT_DISTILL) · [BENCH](https://github.com/MeDeoDuck/MoabomVSAll) |
+| 2026.05 | ITDA 2회 학술제 | **CAGE-CareRF** — multi-relation GNN for organized fake-review ring detection | ITDA | — | — | [GITHUB](https://github.com/ITDA-Team-C/FINAL_GNN_STRUCTURE) |
+| 2026.04 | LinkUs 19기 프로젝트 | **VoiceStep** — voice-conversation practice agent for interviews and workplace communication | LinkUs | — | — | [GITHUB](https://github.com/MeDeoDuck/VoiceStep) |
+| 2026.01 | LG Aimers 8기 (LLM Compression) | **LLM Quantization** — model compression for cheaper LLM inference (GPTQ / AWQ / sparsity) | LG AI Research | — | — | [GITHUB](https://github.com/MeDeoDuck/LG_Aimers_8th_Quant) |
 | 2024.11 | 인컴톤 (LINC 3.0) | — | 인하대학교 LINC 3.0 사업단 | 1 | 🏆 대상<br/>(사업단장상) | - |
 
 <br>
@@ -95,10 +98,7 @@ Two open questions I want to attack: whether **semantic relevance alone is a suf
 | Date | Project | Topic | Context | Link |
 |---|---|---|---|---|
 | 2026.06 ~ 2026.07 | **FOMO Breaker** | Evidence-verified multi-agent investment debate | 애플리케이션 설계 프로젝트 | [GITHUB](https://github.com/FOMO-Breaker/FOMO-Breaker) · [DEMO](https://fomo-breaker.vercel.app) |
-| 2026.05 ~ 2026.05 | **CAGE-CareRF** | Multi-relation GNN for organized fake-review ring detection | ITDA 2nd Academic Festival | [GITHUB](https://github.com/ITDA-Team-C/FINAL_GNN_STRUCTURE) |
-| 2026.04 ~ 2026.05 | **VoiceStep** | Voice-conversation practice agent for interviews and workplace communication | LinkUs 19th | [GITHUB](https://github.com/MeDeoDuck/VoiceStep) |
 | 2026.03 ~ 2026.06 | **ShiftLoss** | Differentiable time-delay term for phase-tolerant time-series forecasting | Financial AI Lab · paper under review | [GITHUB](https://github.com/MeDeoDuck/ShiftLoss) |
-| 2026.01 ~ 2026.02 | **LLM Quantization** | Model compression for cheaper LLM inference (GPTQ / AWQ / sparsity) | LG Aimers 8th | [GITHUB](https://github.com/MeDeoDuck/LG_Aimers_8th_Quant) |
 | 2025.09 ~ 2025.12 | **Physical_AI_ws** | Warehouse-robot pipeline: CCTV perception → A* planning → Pure Pursuit control | 인공지능심화탐색 프로젝트 | [GITHUB](https://github.com/MeDeoDuck/Physical_AI_ws) |
 | 2025.09 ~ 2025.10 | **TrackWithReID** | Multi-object tracking with re-identification | Vision and Learning Lab | [GITHUB](https://github.com/MeDeoDuck/TrackWithReID) |
 | 2025.07 ~ 2025.08 | **StableDiffusion + LST** | Parameter-efficient adaptation of latent diffusion via Ladder Side-Tuning | Personal Research · Software Copyright | [GITHUB](https://github.com/MeDeoDuck/StableDiffusionWithLST) |
