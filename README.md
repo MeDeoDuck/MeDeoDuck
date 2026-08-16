@@ -19,7 +19,7 @@ I treat an LLM as a component to engineer around, not to trust blindly — which
 
 | 기간 | 대회 | 프로젝트 / 주제 | 주최 | 순위 | 수상 | 링크 |
 |---|---|---|---|---|---|---|
-| 2026.06 | 26-1 인공지능공학과 SW-AI 캡스톤디자인 | **MOABOM** — 지식증류 기반 멀티 에이전트 유튜브 리뷰 분석 | 인하대학교 | 3 | 🥈우수상<br/>(소프트웨어융합대학장상) | [GITHUB](https://github.com/moabom-official/Moabom_Prototype) · [DISTILL](https://github.com/MeDeoDuck/KLUE_BERT_DISTILL) · [BENCH](https://github.com/MeDeoDuck/MoabomVSAll) |
+| 2026.06 | 26-1 인공지능공학과 SW-AI 캡스톤디자인 | **MOABOM** — 지식증류 기반 멀티 에이전트 유튜브 리뷰 분석 | 인하대학교 | 3 | 🥈우수상<br/>(소프트웨어융합대학장상) | [GITHUB](https://github.com/moabom-official/Moabom_Prototype)|
 | 2026.05 | ITDA 2회 학술제 | **CAGE-CareRF** — 다중 관계 GNN 기반 조직적 허위 리뷰 탐지 | ITDA | Top 8 | — | [GITHUB](https://github.com/ITDA-Team-C/FINAL_GNN_STRUCTURE) |
 | 2026.01 | LG Aimers 8기 (LLM Compression) | **LLM Quantization** — 추론 비용 절감을 위한 모델 압축 (GPTQ / AWQ / sparsity) | LG AI Research | — | — | [GITHUB](https://github.com/MeDeoDuck/LG_Aimers_8th_Quant) |
 | 2024.11 | 인컴톤 (LINC 3.0) | 실시간 511번 버스 위치·혼잡도 안내 플랫폼 | 인하대학교 LINC 3.0 사업단 | 1 | 🏆대상<br/>(LINC 3.0 사업단장상) | - |
@@ -30,7 +30,7 @@ I treat an LLM as a component to engineer around, not to trust blindly — which
 
 | 기간 | 프로젝트 | 주제 | 소속 / 배경 | 링크 |
 |---|---|---|---|---|
-| 2026.06 ~ 2026.07 | **FOMO Breaker** | 근거 검증 기반 멀티 에이전트 투자 토론 시스템 | 애플리케이션 설계 프로젝트 | [GITHUB](https://github.com/FOMO-Breaker/FOMO-Breaker) · [DEMO](https://fomo-breaker.vercel.app) |
+| 2026.06 ~ 2026.07 | **FOMO Breaker** | 근거 검증 기반 멀티 에이전트 투자 토론 시스템 | 애플리케이션 설계 프로젝트 | [GITHUB](https://github.com/FOMO-Breaker/FOMO-Breaker) |
 | 2026.04 ~ 2026.05 | **VoiceStep** | 면접·직장 커뮤니케이션 음성 대화 연습 에이전트 | LinkUs 19기 | [GITHUB](https://github.com/MeDeoDuck/VoiceStep) |
 | 2026.03 ~ 2026.06 | **ShiftLoss** | 위상 오차에 강건한 시계열 예측을 위한 미분 가능 시간 지연 항 | 금융인공지능연구실 · 논문 심사 중 | [GITHUB](https://github.com/MeDeoDuck/ShiftLoss) |
 | 2025.09 ~ 2025.12 | **Physical_AI_ws** | 물류 로봇 파이프라인: CCTV 인지 → A* 경로 계획 → Pure Pursuit 제어 | 인공지능심화탐색 프로젝트 | [GITHUB](https://github.com/MeDeoDuck/Physical_AI_ws) |
