@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:141E30&height=210&section=header&text=Jaehyun%20Kim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Continual%20Knowledge%20Editing%20·%20MoE%20%26%20Routing%20·%20Parameter-Efficient%20LLMs%20·%20Agentic%20AI&descSize=15&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:141E30&height=210&section=header&text=Jaehyun%20Kim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Continual%20Knowledge%20Editing%20%C2%B7%20MoE%20%26%20Routing%20%C2%B7%20Parameter-Efficient%20LLMs%20%C2%B7%20Agentic%20AI&descSize=15&descAlignY=60"/>
 
 <p align="center">
   <a href="mailto:seankim0824@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -81,12 +81,20 @@ Two open questions I want to attack: whether **semantic relevance alone is a suf
 
 <br>
 
+## 🏆 Competitions
+
+| Date | Competition | Project / Topic | Host | Rank | Award | Link |
+|---|---|---|---|---|---|---|
+| 2026.06 | 26-1 인공지능공학과 SW-AI 캡스톤디자인 | **MOABOM** — knowledge-distilled multi-agent YouTube tech-review analysis | 인하대학교 | 3 | 🥈 우수상<br/>(소프트웨어융합대학장상) | [GITHUB](https://github.com/moabom-official/Moabom_Prototype) · [DISTILL](https://github.com/MeDeoDuck/KLUE_BERT_DISTILL) · [BENCH](https://github.com/MeDeoDuck/MoabomVSAll) |
+| 2024.11 | 인컴톤 (LINC 3.0) | — | 인하대학교 LINC 3.0 사업단 | 1 | 🏆 대상<br/>(사업단장상) | - |
+
+<br>
+
 ## 🚀 Projects
 
 | Date | Project | Topic | Context | Link |
 |---|---|---|---|---|
-| 2026.06 ~ 2026.07 | **FOMO Breaker** | Evidence-verified multi-agent investment debate | 애플리케이선 설계 프로젝트 | [GITHUB](https://github.com/FOMO-Breaker/FOMO-Breaker) · [DEMO](https://fomo-breaker.vercel.app) |
-| 2026.03 ~ 2026.06 | **MOABOM** | Knowledge-distilled multi-agent YouTube tech-review analysis | AI Capstone Design, Inha Univ. | [GITHUB](https://github.com/moabom-official/Moabom_Prototype) · [DISTILL](https://github.com/MeDeoDuck/KLUE_BERT_DISTILL) · [BENCH](https://github.com/MeDeoDuck/MoabomVSAll) |
+| 2026.06 ~ 2026.07 | **FOMO Breaker** | Evidence-verified multi-agent investment debate | 애플리케이션 설계 프로젝트 | [GITHUB](https://github.com/FOMO-Breaker/FOMO-Breaker) · [DEMO](https://fomo-breaker.vercel.app) |
 | 2026.01 ~ 2026.02 | **LLM Quantization** | Model compression for cheaper LLM inference (GPTQ / AWQ / sparsity) | LG Aimers 8th | [GITHUB](https://github.com/MeDeoDuck/LG_Aimers_8th_Quant) |
 | 2025.07 ~ 2025.08 | **StableDiffusion + LST** | Parameter-efficient adaptation of latent diffusion via Ladder Side-Tuning | Personal Research · Software Copyright | [GITHUB](https://github.com/MeDeoDuck/StableDiffusionWithLST) |
 | 2026.03 ~ 2026.06| **ShiftLoss** | Differentiable time-delay term for phase-tolerant time-series forecasting | Financial AI Lab · paper under review | [GITHUB](https://github.com/MeDeoDuck/ShiftLoss) |
@@ -111,22 +119,17 @@ Two open questions I want to attack: whether **semantic relevance alone is a suf
 
 | Period | Activity | Role |
 |---|---|---|
-| Jul 2026 ~ Present | **LinkUs** (AI talent network), 20th | Vice President — leading the rebrand from a career-networking group into an AI talent network, as the only engineer on the leadership team |
+| Jul 2026 ~ Present | **LinkUs** (AI talent network), 20th | Vice President — leading the rebrand from a career-networking group into an AI talent network, as the only engineer on the leadership team · 🏆 Club Activity Grand Prize (2026) |
 | Mar ~ Jun 2025 | **LinkUs**, 19th | Member |
 | Jan ~ Feb 2026 | **LG Aimers 8th** (LG AI training program) | LLM Compression track, completed with certificate |
 | Mar 2025 ~ Feb 2026 | Future Automotive Engineering Dept, Inha University | Student Ambassador |
 
-<br>
+**Software copyright registrations**
 
-## 🏆 Awards & Registrations
-
-| Date | Award / Registration | Detail | Host |
-|---|---|---|---|
-| Jun 2026 | 🥈 **Excellence Award** | Dean's Award, College of Software and Convergence | Inha University |
-| Nov 2024 | 🏆 **Grand Prize** | LINC 3.0 Project Group Director's Award | Inha University |
-| 2026 | 🏆 **Grand Prize** | LinkUs Club Activity Award | LinkUs |
-| Jul 2026 | 📄 **Software Copyright** `C-2026-03297` | MOABOM | KCC |
-| May 2026 | 📄 **Software Copyright** `C-2026-022267` | Stable Diffusion Training Enhancement Program Based on Ladder Side-Tuning | KCC |
+| Date | No. | Program |
+|---|---|---|
+| 2026.07 | `C-2026-03297` | MOABOM |
+| 2026.05 | `C-2026-022267` | Stable Diffusion Training Enhancement Program Based on Ladder Side-Tuning |
 
 **Certifications** — OPIc IH (English) · SQLD
 
