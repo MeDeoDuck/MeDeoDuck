@@ -9,31 +9,10 @@
 
 ## 👋 About me
 
-I'm an Artificial Intelligence Engineering undergraduate at Inha University (GPA 4.10/4.50, expected graduation Feb 2027) and an AI engineer intern, with hands-on work in **knowledge distillation, parameter-efficient adaptation, agentic AI, and multimodal learning**.
+I'm an Artificial Intelligence Engineering undergraduate at Inha University and an AI engineer intern, with hands-on work in **knowledge distillation, parameter-efficient adaptation, agentic AI, and multimodal learning**.
 
 I treat an LLM as a component to engineer around, not to trust blindly — which is also what pulls me toward research. Both directions I care about come from the same question: *how do you add knowledge to a model without breaking what it already knows?* I want to answer it with **continual knowledge editing** and **query-aware routing of parameter-efficient expert modules** over a shared frozen backbone.
 
-<br>
-
-## 🔬 Research Interests
-
-- **Continual Knowledge Editing** — learning continually arriving knowledge without repeated parameter updating or merging
-- **Mixture-of-Experts & Query-Aware Routing** — routing at the *module* level rather than selecting between whole models
-- **Parameter-Efficient LLM Adaptation** — LST-inspired side modules over a frozen backbone
-- **Agentic AI** — multi-agent orchestration, verification gates, and reliability under repeated runs
-
-### Proposed direction
-
-> **Research question.** Can continually arriving knowledge be learned in parameter-efficient side modules and selectively composed with a shared frozen LLM, reducing the interference caused by repeated parameter updating or merging?
-
-| | Pipeline |
-|---|---|
-| **SeqMMR** (motivating work) | Query → unedited backup / merged edited model |
-| **Proposed** | Query → hybrid knowledge router → frozen LLM + selected LST-inspired module(s) → response |
-
-Two open questions I want to attack: whether **semantic relevance alone is a sufficient routing signal** (or whether entity–relation structure and query context should complement it), and whether edit-relevant knowledge can be routed at **module granularity**. Planned evaluation axes: edit success & retention, routing accuracy, locality & module interference, and incremental efficiency.
-
-<br>
 
 ## ⚒️ Tech Stack
 
@@ -72,10 +51,6 @@ Two open questions I want to attack: whether **semantic relevance alone is a suf
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
