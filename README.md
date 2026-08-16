@@ -13,28 +13,6 @@ I'm an Artificial Intelligence Engineering undergraduate at Inha University (GPA
 
 I treat an LLM as a component to engineer around, not to trust blindly — which is also what pulls me toward research. Both directions I care about come from the same question: *how do you add knowledge to a model without breaking what it already knows?* I want to answer it with **continual knowledge editing** and **query-aware routing of parameter-efficient expert modules** over a shared frozen backbone.
 
-<br>
-
-## 🔬 Research Interests
-
-- **Continual Knowledge Editing** — learning continually arriving knowledge without repeated parameter updating or merging
-- **Mixture-of-Experts & Query-Aware Routing** — routing at the *module* level rather than selecting between whole models
-- **Parameter-Efficient LLM Adaptation** — LST-inspired side modules over a frozen backbone
-- **Agentic AI** — multi-agent orchestration, verification gates, and reliability under repeated runs
-
-### Proposed direction
-
-> **Research question.** Can continually arriving knowledge be learned in parameter-efficient side modules and selectively composed with a shared frozen LLM, reducing the interference caused by repeated parameter updating or merging?
-
-| | Pipeline |
-|---|---|
-| **SeqMMR** (motivating work) | Query → unedited backup / merged edited model |
-| **Proposed** | Query → hybrid knowledge router → frozen LLM + selected LST-inspired module(s) → response |
-
-Two open questions I want to attack: whether **semantic relevance alone is a sufficient routing signal** (or whether entity–relation structure and query context should complement it), and whether edit-relevant knowledge can be routed at **module granularity**. Planned evaluation axes: edit success & retention, routing accuracy, locality & module interference, and incremental efficiency.
-
-<br>
-
 ## ⚒️ Tech Stack
 
 <p align="center">
